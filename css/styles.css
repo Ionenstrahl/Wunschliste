@@ -3,14 +3,12 @@ body{
   text-align: center;
 }
 
-h1, h3 {
+h1, h2, h3 {
   font-family: "Montserrat";  /* eigentlich Montserrat-Bold, aber das funktioniert nicht */
   font-weight: bold;
 }
 
-p{
-  color: #8f8f8f;
-}
+
 
 /* Container */
 
