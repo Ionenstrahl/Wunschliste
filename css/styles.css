@@ -65,3 +65,28 @@ h1, h2, h3 {
 .feature-title{
   font-size: 1.5rem;
 }
+
+/* Bottom */
+
+.bottom-image {
+  background-image: url("../images/hk3.jpg");
+  background-color: #cccccc;
+  height: 800px;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.bottom-text {
+  text-align: center;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.bottom-button {
+  margin-top: 1050px;
+}
