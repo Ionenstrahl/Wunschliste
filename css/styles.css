@@ -6,6 +6,7 @@ body{
 h1, h2, h3 {
   font-family: "Montserrat";  /* eigentlich Montserrat-Bold, aber das funktioniert nicht */
   font-weight: bold;
+  color: white;
 }
 
 
