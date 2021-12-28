@@ -14,7 +14,13 @@ h1, h2, h3 {
 /* Container */
 
 .container-fluid{
-  padding: 7% 15%;
+  padding: 7% 15%; /* top&bottom left&right */
+  background-color: black;
+  color: #8f8f8f;
+}
+
+.container-bottom{
+  padding: 0 15% 4%;
   background-color: black;
   color: #8f8f8f;
 }
@@ -90,4 +96,13 @@ h1, h2, h3 {
 
 .bottom-button {
   margin-top: 1050px;
+}
+
+.gifted-img{
+  object-fit: cover;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  margin-top: 20px;
+  filter: brightness(50%);
 }
