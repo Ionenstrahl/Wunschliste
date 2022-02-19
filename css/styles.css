@@ -79,6 +79,7 @@ h1, h2, h3 {
   background-image: url("../images/hk3.jpg");
   background-color: #cccccc;
   height: 800px;
+  width: 100vw;
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -103,6 +104,6 @@ h1, h2, h3 {
   height: 40px;
   width: 40px;
   border-radius: 50%;
-  margin-top: 20px;
+  margin-top: 40px;
   filter: brightness(50%);
 }
