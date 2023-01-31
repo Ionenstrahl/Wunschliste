@@ -219,5 +219,18 @@ const data = [
     "Image": "https://cdn.idealo.com/folder/Product/202218/9/202218905/s1_produktbild_gross/airrobo-p20.jpg",
     "Links": []
   },
-
 ]
+
+/*
+  Astrids Buchempfehlungen
+  - Terry pratched
+    - wächter reihe
+      - wachen wachen
+      - die nachtwächter
+      - der 5. elefant
+    - Any Weir
+      - der marsieraner
+      - der astronaut
+    - Das geräusch einer schnecke beim Essen (hat astrid berührt)
+  Laufräder
+*/
