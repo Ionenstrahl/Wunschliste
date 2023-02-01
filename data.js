@@ -222,15 +222,17 @@ const data = [
 ]
 
 /*
-  Astrids Buchempfehlungen
-  - Terry pratched
-    - wächter reihe
-      - wachen wachen
-      - die nachtwächter
-      - der 5. elefant
-    - Any Weir
-      - der marsieraner
-      - der astronaut
-    - Das geräusch einer schnecke beim Essen (hat astrid berührt)
-  Laufräder
+  - Astrids Buchempfehlungen
+    - Terry pratched
+      - wächter reihe
+        - wachen wachen
+        - die nachtwächter
+        - der 5. elefant
+      - Any Weir
+        - der marsieraner
+        - der astronaut
+      - Das geräusch einer schnecke beim Essen (hat astrid berührt)
+  - Laufräder
+  - Kletterkurs gutschein
+  - Tauchkurs Gutschein
 */
