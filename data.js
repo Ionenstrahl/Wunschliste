@@ -215,6 +215,13 @@ const data = [
     "Image": "images\\gvolt2.jpg",
     "Links": ["https://www.amazon.de/-/en/Cateye-Unisex-Adult-GVolt-Neutral/dp/B08BC4PP58/ref=sr_1_1?crid=2K2XZIQED5MHQ&keywords=gvolt+70&qid=1674407250&sprefix=gvolt+70%2Caps%2C105&sr=8-1"]
   },
+  {
+    "Name": "Cap",
+    "Description": "Bei der Farbe bin ich mir noch unentschlossen, Felix hatte sie in rot",
+    "Image": "https://cdn.shopify.com/s/files/1/0266/5935/6754/products/100211-1169-001-201_800x.jpg?v=1646703483",
+    "Links": ["https://eu.monsroyale.com/products/ridgeline-5-panel-cap-black-unisex-ss22"]
+  },
+
 
 ]
 
