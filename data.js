@@ -162,16 +162,25 @@ const data = [
     "Patron": "Leo"
   },
   {
+    "Name": "Glatzen-Rasierer",
+    "Description": "Ansonten muss Hannah immer nochmal drüber schauen, ob ich nicht eine Ecke Haar-Unkraut übersehen habe - als ob man seinen Hinterkopf sehen könnte ...",
+    "Image": "https://m.media-amazon.com/images/I/61quaj0bKIL._AC_SL1080_.jpg",
+    "Patron": "Jonas"
+  },
+  {
+    "Name": "Fahrrad-Licht",
+    "Description": "GVolt 70.1: Das hat Anna, das hat Johannes - außerdem ist mein aktuelles ein bisschen kaputt",
+    "Image": "images\\gvolt2.jpg",
+    "Patron": "Jonas"
+  },
+
+
+
+  {
     "Name": "Hello Fresh Gutschein",
     "Description": "Hier bekommt man Rezepte passgenau zugeschickt und kann so ganz entspannt neue Gerichte kennenlernen",
     "Image": "https://hf-website-live.s3-eu-west-1.amazonaws.com/be/cms/homepage/image_columns/hiw-3-v2.png",
     "Links": ["https://www.hellofresh.de/gift"]
-  },
-  {
-    "Name": "Glatzen-Rasierer",
-    "Description": "Ansonten muss Hannah immer nochmal drüber schauen, ob ich nicht eine Ecke Haar-Unkraut übersehen habe - als ob man seinen Hinterkopf sehen könnte ...",
-    "Image": "https://m.media-amazon.com/images/I/61quaj0bKIL._AC_SL1080_.jpg",
-    "Links": ["https://www.amazon.de/dp/B07R7YXVJL/?tag=glv-21&ascsubtag=5652e7e4-4f89-4398-b78a-1686c29c3384&th=1&psc=1&linkCode=osi"]
   },
   {
     "Name": "Hot Mamas Sauce No14",
@@ -209,20 +218,6 @@ const data = [
     "Image": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-product-thumbnail-01-en-14sep21?$facebook$",
     "Links": ["https://www.amazon.de/-/en/dp/B0BK9MC6QM/ref=sr_1_1?keywords=playstation+5&qid=1674895070&sprefix=play%2Caps%2C105&sr=8-1"]
   },
-  {
-    "Name": "Fahrrad-Licht",
-    "Description": "GVolt 70.1: Das hat Anna, das hat Johannes - außerdem ist mein aktuelles ein bisschen kaputt",
-    "Image": "images\\gvolt2.jpg",
-    "Links": ["https://www.amazon.de/-/en/Cateye-Unisex-Adult-GVolt-Neutral/dp/B08BC4PP58/ref=sr_1_1?crid=2K2XZIQED5MHQ&keywords=gvolt+70&qid=1674407250&sprefix=gvolt+70%2Caps%2C105&sr=8-1"]
-  },
-  {
-    "Name": "Cap",
-    "Description": "Bei der Farbe bin ich mir noch unentschlossen, Felix hatte sie in rot",
-    "Image": "https://cdn.shopify.com/s/files/1/0266/5935/6754/products/100211-1169-001-201_800x.jpg?v=1646703483",
-    "Links": ["https://eu.monsroyale.com/products/ridgeline-5-panel-cap-black-unisex-ss22"]
-  },
-
-
 ]
 
 /*
