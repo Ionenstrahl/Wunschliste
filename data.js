@@ -173,26 +173,27 @@ const data = [
     "Image": "images\\gvolt2.jpg",
     "Patron": "Jonas"
   },
+  {
+    "Name": "PlayStation 5",
+    "Description": "Wichtig ist, dass es nicht die Digital-Edition ist. Da gibts nämlich kein Bluray-Laufwerk und dann kann Hannah dort kein Herr der Ringe schauen.",
+    "Image": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-product-thumbnail-01-en-14sep21?$facebook$",
+    "Patron": "Jonas"
+  },
+
 
 
 
   {
-    "Name": "Hello Fresh Gutschein",
-    "Description": "Hier bekommt man Rezepte passgenau zugeschickt und kann so ganz entspannt neue Gerichte kennenlernen",
-    "Image": "https://hf-website-live.s3-eu-west-1.amazonaws.com/be/cms/homepage/image_columns/hiw-3-v2.png",
-    "Links": ["https://www.hellofresh.de/gift"]
+    "Name": "Stormlight Archive",
+    "Description": "Habe dieses Jahr mein erstes Buch von Brandon Sanderson gelesen und war hellauf begeistert. Gerne nur den ersten Band. Finde es aber auch vertretbar die ersten X Bücher geschenkt zu bekommen. WICHTIG: bitte auf Englisch.",
+    "Image": "https://images.thalia.media/00/-/5427597cc9d7454fa54ad9dc7747a7ba/way-of-kings-taschenbuch-brandon-sanderson-englisch.jpeg",
+    "Links": ["https://www.amazon.de/Stormlight-Archive-Boxed-Set-Books/dp/1250776635/ref=sr_1_1?keywords=stormlight+archives&qid=1691610336&sprefix=stormlight%2Caps%2C105&sr=8-1"]
   },
   {
-    "Name": "Hot Mamas Sauce No14",
-    "Description": "Das ist meine absolute Lieblingssooße. Die Flasche ist nur so klein, deshalb auch gerne mehrmals schenken",
-    "Image": "https://haendlmaier-shop.de/wp-content/uploads/2020/09/Hotmamas_No14_95ml_Neu-768x1144.jpg",
-    "Links": ["https://haendlmaier-shop.de/produkt/hotmamas-n-14-red-habanero-sauce-95ml/"]
-  },
-  {
-    "Name": "2 Festival-Tickets",
-    "Description": "Ich fande das war eines der schönesten Festival. Vor allem weil es so klein war und so schön im Wlad gelegen ist.",
-    "Image": "https://shop-of-the-forest.de/media/image/3a/63/19/Sound-of-the-Forest-2016-Skyline-by-night-Heidi-Schultz-2_1280x1280.jpg",
-    "Links": ["https://sound-of-the-forest.de/tickets/"]
+    "Name": "Armored Core 6",
+    "Description": "Das neueste Spiel von meinem Lieblings-Studio. Sind bekannt für ihre extrem schweren Spiele.",
+    "Image": "https://p325k7wa.twic.pics/high/armored-core/armored-core-vi-fires-of-rubicon/00-page-setup/acvifor-header-mobile-new.jpg?twic=v1/resize=760/step=10/quality=80",
+    "Links": ["https://www.amazon.de/Armored-Core-Fires-Rubicon-Launch/dp/B0C3RS4CR3/ref=sr_1_1?keywords=armored%2Bcore%2B6&qid=1691610126&sprefix=armored%2Bcore%2Caps%2C106&sr=8-1&th=1"]
   },
   {
     "Name": "Kochkurs",
@@ -201,23 +202,31 @@ const data = [
     "Links": []
   },
   {
+    "Name": "Hot Mamas Sauce No14",
+    "Description": "Das ist meine absolute Lieblingssooße. Die Flasche ist nur so klein, deshalb auch gerne mehrmals schenken",
+    "Image": "https://haendlmaier-shop.de/wp-content/uploads/2020/09/Hotmamas_No14_95ml_Neu-768x1144.jpg",
+    "Links": ["https://haendlmaier-shop.de/produkt/hotmamas-n-14-red-habanero-sauce-95ml/"]
+  },
+  {
     "Name": "Magic Karten",
-    "Description": "Genauer ein ganzes Display (36 Booster) Khans of Thakir. Das ist meine absolute Lieblingsedition & mittlerweile schon ganze 8 Jahre alt.",
-    "Image": "images\\khan.jpg",
-    "Links": ["https://www.magic-games.at/shop/magic-the-gathering/khans-of-tarkir-booster-box-display-deutsch/"]
+    "Description": "Genauer ein ganzes Display (36 Booster). Dieses Jahr gab es das erste Mal eine Herr der Ringe Edition. Und die würde ich ja so gerne mit meinen Freunden spielen.",
+    "Image": "https://games-island.eu/media/image/product/757328/lg/der-herr-der-ringe-geschichten-aus-mittelerde-draft-booster-display-deutsch.webp",
+    "Links": ["https://games-island.eu/Der-Herr-der-Ringe-Geschichten-aus-Mittelerde-Draft-Booster-Display-Deutsch"]
   },
   {
-    "Name": "Maus",
-    "Description": "Meine Maus macht gerade immer Doppelklicks. Also wird jedes Programm 2x geöffnet",
-    "Image": "https://m.media-amazon.com/images/I/61KTBWy8kAL._AC_SS450_.jpg",
-    "Links": ["https://www.amazon.de/-/en/INPHIC-Bluetooth-Wireless-Mouse-Three-black/dp/B08BR6XLBT/ref=sr_1_4?crid=QFQYC63M9Q2N&keywords=bluetooth-maus&qid=1674895653&sprefix=bluetooth%2Bmaus%2Caps%2C103&sr=8-4&th=1"]
+    "Name": "Hello Fresh Gutschein",
+    "Description": "Hier bekommt man Rezepte passgenau zugeschickt und kann so ganz entspannt neue Gerichte kennenlernen",
+    "Image": "https://hf-website-live.s3-eu-west-1.amazonaws.com/be/cms/homepage/image_columns/hiw-3-v2.png",
+    "Links": ["https://www.hellofresh.de/gift"]
   },
   {
-    "Name": "PlayStation 5",
-    "Description": "Wichtig ist, dass es nicht die Digital-Edition ist. Da gibts nämlich kein Bluray-Laufwerk und dann kann Hannah dort kein Herr der Ringe schauen.",
-    "Image": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-product-thumbnail-01-en-14sep21?$facebook$",
-    "Links": ["https://www.amazon.de/-/en/dp/B0BK9MC6QM/ref=sr_1_1?keywords=playstation+5&qid=1674895070&sprefix=play%2Caps%2C105&sr=8-1"]
+    "Name": "2 Festival-Tickets",
+    "Description": "Ich fande das war eines der schönesten Festival. Vor allem weil es so klein war und so schön im Wlad gelegen ist.",
+    "Image": "https://shop-of-the-forest.de/media/image/3a/63/19/Sound-of-the-Forest-2016-Skyline-by-night-Heidi-Schultz-2_1280x1280.jpg",
+    "Links": ["https://sound-of-the-forest.de/tickets/"]
   },
+
+
 ]
 
 /*
@@ -232,6 +241,4 @@ const data = [
         - der astronaut
       - Das geräusch einer schnecke beim Essen (hat astrid berührt)
   - Laufräder
-  - Kletterkurs gutschein
-  - Tauchkurs Gutschein
 */
