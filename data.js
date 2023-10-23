@@ -190,12 +190,6 @@ const data = [
     "Links": ["https://www.amazon.de/Stormlight-Archive-Boxed-Set-Books/dp/1250776635/ref=sr_1_1?keywords=stormlight+archives&qid=1691610336&sprefix=stormlight%2Caps%2C105&sr=8-1"]
   },
   {
-    "Name": "Armored Core 6",
-    "Description": "Das neueste Spiel von meinem Lieblings-Studio. Sind bekannt für ihre extrem schweren Spiele.",
-    "Image": "https://p325k7wa.twic.pics/high/armored-core/armored-core-vi-fires-of-rubicon/00-page-setup/acvifor-header-mobile-new.jpg?twic=v1/resize=760/step=10/quality=80",
-    "Links": ["https://www.amazon.de/Armored-Core-Fires-Rubicon-Launch/dp/B0C3RS4CR3/ref=sr_1_1?keywords=armored%2Bcore%2B6&qid=1691610126&sprefix=armored%2Bcore%2Caps%2C106&sr=8-1&th=1"]
-  },
-  {
     "Name": "Laufräder",
     "Description": "Ich will einfach noch schneller über das Kölner Umland rauschen. Auch hier habe ich noch nichts genaues im Auge - vor allem weil ich selbst auch nicht tief genug in der Materie bin.",
     "Image": "https://thumbnails.mtb-news.de/cache/1200_640_1_1_0/d3/aHR0cHM6Ly93d3cucmVubnJhZC1uZXdzLmRlL25ld3Mvd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDUvY2FkZXgtMzYtd2hlZWxzeXN0ZW0tcHJvZHVjdC5qcGc.jpg",
