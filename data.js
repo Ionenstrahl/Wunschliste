@@ -190,6 +190,18 @@ const data = [
     "Links": ["https://www.amazon.de/Stormlight-Archive-Boxed-Set-Books/dp/1250776635/ref=sr_1_1?keywords=stormlight+archives&qid=1691610336&sprefix=stormlight%2Caps%2C105&sr=8-1"]
   },
   {
+    "Name": "Olivenöl",
+    "Description": "Finde das Öl ganz vorzüglich. Gibts sogar beim Bauern Aldi",
+    "Image": "https://s7g10.scene7.com/is/image/aldi/202112020041",
+    "Links": ["https://www.aldi-sued.de/de/p.cantinelle-natives-olivenoel-extra--ml.490000000000001033.html"]
+  },
+  {
+    "Name": "Battle Spirit",
+    "Description": "Ein neues Kartenspiel, dass mir in Indonesien empfohlen wurde. Am besten 2 Starterdecks (Gelb und Rot)",
+    "Image": "https://www.fantasywelt.de/media/image/product/163541/md/battle-spirits-saga-starter-deck-yellow-sd04-en.jpg",
+    "Links": ["https://www.fantasywelt.de/Battle-Spirits-Saga-Starter-Deck-Yellow-SD04-EN","https://www.fantasywelt.de/Battle-Spirits-Saga-Starter-Deck-Red-SD01-EN" ]
+  },
+  {
     "Name": "Laufräder",
     "Description": "Ich will einfach noch schneller über das Kölner Umland rauschen. Auch hier habe ich noch nichts genaues im Auge - vor allem weil ich selbst auch nicht tief genug in der Materie bin.",
     "Image": "https://thumbnails.mtb-news.de/cache/1200_640_1_1_0/d3/aHR0cHM6Ly93d3cucmVubnJhZC1uZXdzLmRlL25ld3Mvd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDUvY2FkZXgtMzYtd2hlZWxzeXN0ZW0tcHJvZHVjdC5qcGc.jpg",
