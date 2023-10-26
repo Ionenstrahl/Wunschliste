@@ -202,6 +202,12 @@ const data = [
     "Links": ["https://www.fantasywelt.de/Battle-Spirits-Saga-Starter-Deck-Yellow-SD04-EN","https://www.fantasywelt.de/Battle-Spirits-Saga-Starter-Deck-Red-SD01-EN" ]
   },
   {
+    "Name": "Euroblast",
+    "Description": "In Köln gibts ein Metal Festival. Das würde ich nächstes Jahr gerne mal ausprobieren. 2 Freunde waren da dieses Jahr und fanden es super.",
+    "Image": "https://tickets.euroblast.net/uploads/euroblast/ticket/hero_image/62104/Veranstaltungsbild_Header_1695891382.jpeg",
+    "Links": ["https://tickets.euroblast.net/produkte/62104-tickets-euroblast-festival-2024-essigfabrik-koeln-am-03-10-2024" ]
+  },
+  {
     "Name": "Laufräder",
     "Description": "Ich will einfach noch schneller über das Kölner Umland rauschen. Auch hier habe ich noch nichts genaues im Auge - vor allem weil ich selbst auch nicht tief genug in der Materie bin.",
     "Image": "https://thumbnails.mtb-news.de/cache/1200_640_1_1_0/d3/aHR0cHM6Ly93d3cucmVubnJhZC1uZXdzLmRlL25ld3Mvd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDUvY2FkZXgtMzYtd2hlZWxzeXN0ZW0tcHJvZHVjdC5qcGc.jpg",
@@ -252,5 +258,4 @@ const data = [
         - der marsieraner
         - der astronaut
       - Das geräusch einer schnecke beim Essen (hat astrid berührt)
-  - Laufräder
 */
