@@ -190,6 +190,12 @@ const data = [
     "Links": ["https://www.amazon.de/Stormlight-Archive-Boxed-Set-Books/dp/1250776635/ref=sr_1_1?keywords=stormlight+archives&qid=1691610336&sprefix=stormlight%2Caps%2C105&sr=8-1"]
   },
   {
+    "Name": "Smart + Sicherungskarabiner",
+    "Description": "Sicherungsgerät zum Klettern. Beim Sicherungskarabiner ist wichtig, dass er (1) einen extra Verschluss hat und (2) eine Klappe hat, damit er immer richtig im Gurt sitzt. Gerne auch bei Bergzeit bestellen, aber dort schien es keinen so guten Deal zu geben.",
+    "Image": "https://images-eu.ssl-images-amazon.com/images/I/61J94jJoHLL._AC_UL232_SR232,232_.jpg",
+    "Links": ["https://amzn.eu/d/68sACgL"]
+  },
+  {
     "Name": "Olivenöl",
     "Description": "Finde das Öl ganz vorzüglich. Gibts sogar beim Bauern Aldi",
     "Image": "https://s7g10.scene7.com/is/image/aldi/202112020041",
@@ -206,6 +212,12 @@ const data = [
     "Description": "Ich will einfach noch schneller über das Kölner Umland rauschen. Auch hier habe ich noch nichts genaues im Auge - vor allem weil ich selbst auch nicht tief genug in der Materie bin.",
     "Image": "https://thumbnails.mtb-news.de/cache/1200_640_1_1_0/d3/aHR0cHM6Ly93d3cucmVubnJhZC1uZXdzLmRlL25ld3Mvd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDUvY2FkZXgtMzYtd2hlZWxzeXN0ZW0tcHJvZHVjdC5qcGc.jpg",
     "Links": []
+  },
+  {
+    "Name": "Partybrille Nr 2",
+    "Description": "Damit stell ich mir das Hallenklettern ungemein angenehmer vor.",
+    "Image": "https://m.media-amazon.com/images/I/61T-nqfv99L._AC_UY327_FMwebp_QL65_.jpg",
+    "Links": ["https://amzn.eu/d/6fRyaFg"]
   },
   {
     "Name": "Kochkurs",
