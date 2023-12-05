@@ -202,6 +202,13 @@ const data = [
     "Links": ["https://www.aldi-sued.de/de/p.cantinelle-natives-olivenoel-extra--ml.490000000000001033.html"]
   },
   {
+    "Name": "Lorcana",
+    "Description": "Das neue Kartenspiel von Disney mit Mickey Mouse und Simba. Am liebsten 2 Startdecks (1. Das Erste Kapitel - Saphir und Stahl 2. 1. Das Erste Kapitel - Bernstein und Amethyst) aber nicht mehr als 20€ zahlen",
+    "Image": "https://m.media-amazon.com/images/I/71YbkIisLxL._AC_SX679_.jpg",
+    "Links": ["https://amzn.eu/d/a1bJz9a", "https://amzn.eu/d/4yY28d8"]
+  },
+
+  {
     "Name": "Battle Spirit",
     "Description": "Ein neues Kartenspiel, dass mir in Indonesien empfohlen wurde. Am besten 2 Starterdecks (Gelb und Rot)",
     "Image": "https://www.fantasywelt.de/media/image/product/163541/md/battle-spirits-saga-starter-deck-yellow-sd04-en.jpg",
