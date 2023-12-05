@@ -227,6 +227,12 @@ const data = [
     "Links": ["https://amzn.eu/d/6fRyaFg"]
   },
   {
+    "Name": "Baldurs Gate 3 - Deluxe Edition PS5",
+    "Description": "Das ist das augezeichnet Spiel des Jahres 2023 und erzählt ein ganz besonderes Abenteuer. Gerne vorbestellen",
+    "Image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJhpBsXvFEd0b3A9B84nHY9G8jMNc2QN8t9jUM5F2m7ikk2uoP",
+    "Links": ["https://eu.merch.larian.com/en/products/baldur-s-gate-3-deluxe-edition-ps5?"]
+  },
+  {
     "Name": "Band Shirt",
     "Description": "Das ist mein Lieblings Band-Shirt, aber weil meins schon 10 Jahre alt ist und viel getragen wurde ist es mehr Loch als Shirt",
     "Image": "https://m.media-amazon.com/images/I/71D4o0YzteL._AC_SX569_.jpg",
