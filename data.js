@@ -203,7 +203,7 @@ const data = [
   },
   {
     "Name": "Lorcana",
-    "Description": "Das neue Kartenspiel von Disney mit Mickey Mouse und Simba. Am liebsten 2 Startdecks (1. Das Erste Kapitel - Saphir und Stahl 2. 1. Das Erste Kapitel - Bernstein und Amethyst) aber nicht mehr als 20€ zahlen",
+    "Description": "Das neue Kartenspiel von Disney mit Mickey Mouse und Simba. Am liebsten 2 Startdecks (1. Das Erste Kapitel - Saphir und Stahl 2. Das Erste Kapitel - Bernstein und Amethyst) aber nicht mehr als 20€ zahlen",
     "Image": "https://m.media-amazon.com/images/I/71YbkIisLxL._AC_SX679_.jpg",
     "Links": ["https://amzn.eu/d/a1bJz9a", "https://amzn.eu/d/4yY28d8"]
   },
