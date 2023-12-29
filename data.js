@@ -179,16 +179,34 @@ const data = [
     "Image": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-product-thumbnail-01-en-14sep21?$facebook$",
     "Patron": "Jonas"
   },
-
-
-
-
   {
     "Name": "Stormlight Archive",
     "Description": "Habe dieses Jahr mein erstes Buch von Brandon Sanderson gelesen und war hellauf begeistert. Gerne nur den ersten Band. Finde es aber auch vertretbar die ersten X Bücher geschenkt zu bekommen. WICHTIG: bitte auf Englisch.",
     "Image": "https://images.thalia.media/00/-/5427597cc9d7454fa54ad9dc7747a7ba/way-of-kings-taschenbuch-brandon-sanderson-englisch.jpeg",
-    "Links": ["https://www.amazon.de/Stormlight-Archive-Boxed-Set-Books/dp/1250776635/ref=sr_1_1?keywords=stormlight+archives&qid=1691610336&sprefix=stormlight%2Caps%2C105&sr=8-1"]
+    "Patron": "Anja und Uli"
   },
+  {
+    "Name": "Olivenöl",
+    "Description": "Finde das Öl ganz vorzüglich. Gibts sogar beim Bauern Aldi",
+    "Image": "https://s7g10.scene7.com/is/image/aldi/202112020041",
+    "Patron": "M + P"
+  },
+  {
+    "Name": "Battle Spirit",
+    "Description": "Ein neues Kartenspiel, dass mir in Indonesien empfohlen wurde. Am besten 2 Starterdecks (Gelb und Rot)",
+    "Image": "https://www.fantasywelt.de/media/image/product/163541/md/battle-spirits-saga-starter-deck-yellow-sd04-en.jpg",
+    "Patron": "Lena"
+  },
+  {
+    "Name": "Laufräder",
+    "Description": "Ich will einfach noch schneller über das Kölner Umland rauschen. Auch hier habe ich noch nichts genaues im Auge - vor allem weil ich selbst auch nicht tief genug in der Materie bin.",
+    "Image": "https://thumbnails.mtb-news.de/cache/1200_640_1_1_0/d3/aHR0cHM6Ly93d3cucmVubnJhZC1uZXdzLmRlL25ld3Mvd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDUvY2FkZXgtMzYtd2hlZWxzeXN0ZW0tcHJvZHVjdC5qcGc.jpg",
+    "Patron": "Papa"
+  },
+
+
+
+
   {
     "Name": "Smart + Sicherungskarabiner",
     "Description": "Sicherungsgerät zum Klettern. Beim Sicherungskarabiner ist wichtig, dass er (1) einen extra Verschluss hat und (2) eine Klappe hat, damit er immer richtig im Gurt sitzt. Gerne auch bei Bergzeit bestellen, aber dort schien es keinen so guten Deal zu geben.",
@@ -196,29 +214,10 @@ const data = [
     "Links": ["https://amzn.eu/d/68sACgL"]
   },
   {
-    "Name": "Olivenöl",
-    "Description": "Finde das Öl ganz vorzüglich. Gibts sogar beim Bauern Aldi",
-    "Image": "https://s7g10.scene7.com/is/image/aldi/202112020041",
-    "Links": ["https://www.aldi-sued.de/de/p.cantinelle-natives-olivenoel-extra--ml.490000000000001033.html"]
-  },
-  {
     "Name": "Lorcana",
     "Description": "Das neue Kartenspiel von Disney mit Mickey Mouse und Simba. Am liebsten 2 Startdecks (1. Das Erste Kapitel - Saphir und Stahl 2. Das Erste Kapitel - Bernstein und Amethyst) aber nicht mehr als 20€ zahlen",
     "Image": "https://m.media-amazon.com/images/I/71YbkIisLxL._AC_SX679_.jpg",
     "Links": ["https://amzn.eu/d/a1bJz9a", "https://amzn.eu/d/4yY28d8"]
-  },
-
-  {
-    "Name": "Battle Spirit",
-    "Description": "Ein neues Kartenspiel, dass mir in Indonesien empfohlen wurde. Am besten 2 Starterdecks (Gelb und Rot)",
-    "Image": "https://www.fantasywelt.de/media/image/product/163541/md/battle-spirits-saga-starter-deck-yellow-sd04-en.jpg",
-    "Links": ["https://www.fantasywelt.de/Battle-Spirits-Saga-Starter-Deck-Yellow-SD04-EN","https://www.fantasywelt.de/Battle-Spirits-Saga-Starter-Deck-Red-SD01-EN" ]
-  },
-  {
-    "Name": "Laufräder",
-    "Description": "Ich will einfach noch schneller über das Kölner Umland rauschen. Auch hier habe ich noch nichts genaues im Auge - vor allem weil ich selbst auch nicht tief genug in der Materie bin.",
-    "Image": "https://thumbnails.mtb-news.de/cache/1200_640_1_1_0/d3/aHR0cHM6Ly93d3cucmVubnJhZC1uZXdzLmRlL25ld3Mvd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDUvY2FkZXgtMzYtd2hlZWxzeXN0ZW0tcHJvZHVjdC5qcGc.jpg",
-    "Links": []
   },
   {
     "Name": "Partybrille Nr 2",
@@ -268,8 +267,6 @@ const data = [
     "Image": "https://shop-of-the-forest.de/media/image/3a/63/19/Sound-of-the-Forest-2016-Skyline-by-night-Heidi-Schultz-2_1280x1280.jpg",
     "Links": ["https://sound-of-the-forest.de/tickets/"]
   },
-
-
 ]
 
 /*
