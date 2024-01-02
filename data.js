@@ -232,6 +232,18 @@ const data = [
     "Links": ["https://eu.merch.larian.com/en/products/baldur-s-gate-3-deluxe-edition-ps5?"]
   },
   {
+    "Name": "Du bist nicht, was du denkst",
+    "Description": "Habe mir schon die 20min Audio-Zusammenfassung anhört und fande es sehr interessant",
+    "Image": "https://m.media-amazon.com/images/I/81xWMD+QE8L._SY522_.jpg",
+    "Links": ["https://amzn.eu/d/etkQaL0"]
+  },
+  {
+    "Name": "Kindle",
+    "Description": "Weil ich in letzter Zeit so viel lese",
+    "Image": "https://m.media-amazon.com/images/I/51+cfQbcJDL._AC_SX569_.jpg",
+    "Links": ["https://amzn.eu/d/86YcK9q"]
+  },
+  {
     "Name": "Band Shirt",
     "Description": "Das ist mein Lieblings Band-Shirt, aber weil meins schon 10 Jahre alt ist und viel getragen wurde ist es mehr Loch als Shirt",
     "Image": "https://m.media-amazon.com/images/I/71D4o0YzteL._AC_SX569_.jpg",
@@ -267,6 +279,7 @@ const data = [
     "Image": "https://shop-of-the-forest.de/media/image/3a/63/19/Sound-of-the-Forest-2016-Skyline-by-night-Heidi-Schultz-2_1280x1280.jpg",
     "Links": ["https://sound-of-the-forest.de/tickets/"]
   },
+
 ]
 
 /*
