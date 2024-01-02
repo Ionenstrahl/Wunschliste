@@ -225,12 +225,12 @@ const data = [
     "Image": "https://m.media-amazon.com/images/I/61T-nqfv99L._AC_UY327_FMwebp_QL65_.jpg",
     "Links": ["https://amzn.eu/d/6fRyaFg"]
   },
-  {
-    "Name": "Baldurs Gate 3 - Deluxe Edition PS5",
-    "Description": "Das ist das augezeichnet Spiel des Jahres 2023 und erzählt ein ganz besonderes Abenteuer. Gerne vorbestellen",
-    "Image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJhpBsXvFEd0b3A9B84nHY9G8jMNc2QN8t9jUM5F2m7ikk2uoP",
-    "Links": ["https://eu.merch.larian.com/en/products/baldur-s-gate-3-deluxe-edition-ps5?"]
-  },
+  // {
+  //   "Name": "Baldurs Gate 3 - Deluxe Edition PS5",
+  //   "Description": "Das ist das augezeichnet Spiel des Jahres 2023 und erzählt ein ganz besonderes Abenteuer. Gerne vorbestellen",
+  //   "Image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJhpBsXvFEd0b3A9B84nHY9G8jMNc2QN8t9jUM5F2m7ikk2uoP",
+  //   "Links": ["https://eu.merch.larian.com/en/products/baldur-s-gate-3-deluxe-edition-ps5?"]
+  // },
   {
     "Name": "Du bist nicht, was du denkst",
     "Description": "Habe mir schon die 20min Audio-Zusammenfassung anhört und fande es sehr interessant",
