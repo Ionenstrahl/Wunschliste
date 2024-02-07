@@ -203,7 +203,12 @@ const data = [
     "Image": "https://thumbnails.mtb-news.de/cache/1200_640_1_1_0/d3/aHR0cHM6Ly93d3cucmVubnJhZC1uZXdzLmRlL25ld3Mvd3AtY29udGVudC91cGxvYWRzLzIwMjEvMDUvY2FkZXgtMzYtd2hlZWxzeXN0ZW0tcHJvZHVjdC5qcGc.jpg",
     "Patron": "Papa"
   },
-
+  {
+    "Name": "Partybrille Nr 2",
+    "Description": "Damit stell ich mir das Hallenklettern ungemein angenehmer vor.",
+    "Image": "https://m.media-amazon.com/images/I/61T-nqfv99L._AC_UY327_FMwebp_QL65_.jpg",
+    "Patron": "Anna & Johannes"
+  },
 
 
 
@@ -214,33 +219,10 @@ const data = [
     "Links": ["https://amzn.eu/d/68sACgL"]
   },
   {
-    "Name": "Lorcana",
-    "Description": "Das neue Kartenspiel von Disney mit Mickey Mouse und Simba. Am liebsten 2 Startdecks (1. Das Erste Kapitel - Saphir und Stahl 2. Das Erste Kapitel - Bernstein und Amethyst) aber nicht mehr als 20€ zahlen",
-    "Image": "https://m.media-amazon.com/images/I/71YbkIisLxL._AC_SX679_.jpg",
-    "Links": ["https://amzn.eu/d/a1bJz9a", "https://amzn.eu/d/4yY28d8"]
-  },
-  {
-    "Name": "Partybrille Nr 2",
-    "Description": "Damit stell ich mir das Hallenklettern ungemein angenehmer vor.",
-    "Image": "https://m.media-amazon.com/images/I/61T-nqfv99L._AC_UY327_FMwebp_QL65_.jpg",
-    "Links": ["https://amzn.eu/d/6fRyaFg"]
-  },
-  {
-    "Name": "Pulli",
-    "Description": "Leos Mitbewohner hatte den und ich war verliebt",
-    "Image": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/21/thumb-img/1695254347835255144.jpg",
-    "Links": ["https://de.zaful.com/zaful-ethnische-up-up-up-up-reissverschluss-an-der-vorderseite-flauschige-jacke-puid_5064662.html?kuid=1204044"]
-  },
-    "Name": "Du bist nicht, was du denkst",
-    "Description": "Habe mir schon die 20min Audio-Zusammenfassung anhört und fande es sehr interessant",
-    "Image": "https://m.media-amazon.com/images/I/81xWMD+QE8L._SY522_.jpg",
-    "Links": ["https://amzn.eu/d/etkQaL0"]
-  },
-  {
-    "Name": "Kindle",
-    "Description": "Weil ich in letzter Zeit so viel lese",
-    "Image": "https://m.media-amazon.com/images/I/51+cfQbcJDL._AC_SX569_.jpg",
-    "Links": ["https://amzn.eu/d/86YcK9q"]
+    "Name": "Boulder-/Kletterhose",
+    "Description": "Von der Marke, wo Papa denen Grünen Pulli hat. Da finde ich alles ziemlich schmuck.",
+    "Image": "https://www.chillaz.com/wp-content/uploads/2023/02/210233-4-960x1400.jpg",
+    "Links": ["https://www.chillaz.com/produkte/rofan-cord-mix-dark-grey/"]
   },
   {
     "Name": "Band Shirt",
@@ -249,28 +231,16 @@ const data = [
     "Links": ["https://amzn.eu/d/6MuipMh"]
   },
   {
+    "Name": "Pulli",
+    "Description": "Leos Mitbewohner hatte den und ich war verliebt",
+    "Image": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/21/thumb-img/1695254347835255144.jpg",
+    "Links": ["https://de.zaful.com/zaful-ethnische-up-up-up-up-reissverschluss-an-der-vorderseite-flauschige-jacke-puid_5064662.html?kuid=1204044"]
+  },
+  {
     "Name": "Kochkurs",
     "Description": "Gern auch für 2 Personen. Am liebsten vegetarisch und eine etwas ausgefallenere Küche wie asiatisch oder arabisch",
     "Image": "https://aufgetischt.com/wp-content/uploads/2021/02/Kochkurse-2021.jpg",
     "Links": []
-  },
-  {
-    "Name": "Hot Mamas Sauce No14",
-    "Description": "Das ist meine absolute Lieblingssooße. Die Flasche ist nur so klein, deshalb auch gerne mehrmals schenken",
-    "Image": "https://haendlmaier-shop.de/wp-content/uploads/2020/09/Hotmamas_No14_95ml_Neu-768x1144.jpg",
-    "Links": ["https://haendlmaier-shop.de/produkt/hotmamas-n-14-red-habanero-sauce-95ml/"]
-  },
-  {
-    "Name": "Magic Karten",
-    "Description": "Genauer ein ganzes Display (36 Booster). Dieses Jahr gab es das erste Mal eine Herr der Ringe Edition. Und die würde ich ja so gerne mit meinen Freunden spielen.",
-    "Image": "https://games-island.eu/media/image/product/757328/lg/der-herr-der-ringe-geschichten-aus-mittelerde-draft-booster-display-deutsch.webp",
-    "Links": ["https://games-island.eu/Der-Herr-der-Ringe-Geschichten-aus-Mittelerde-Draft-Booster-Display-Deutsch"]
-  },
-  {
-    "Name": "Hello Fresh Gutschein",
-    "Description": "Hier bekommt man Rezepte passgenau zugeschickt und kann so ganz entspannt neue Gerichte kennenlernen",
-    "Image": "https://hf-website-live.s3-eu-west-1.amazonaws.com/be/cms/homepage/image_columns/hiw-3-v2.png",
-    "Links": ["https://www.hellofresh.de/gift"]
   },
   {
     "Name": "2 Festival-Tickets",
@@ -278,7 +248,30 @@ const data = [
     "Image": "https://shop-of-the-forest.de/media/image/3a/63/19/Sound-of-the-Forest-2016-Skyline-by-night-Heidi-Schultz-2_1280x1280.jpg",
     "Links": ["https://sound-of-the-forest.de/tickets/"]
   },
-
+  {
+    "Name": "Warbreaker",
+    "Description": "Das ist das romantische Buch von Brandon Sanderson. Wie immer auf Englisch bitte. Wenn ich ein Kindle bekomme auch gerne als E-Book",
+    "Image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T2/images/I/81RwObv1RsL._SL1500_.jpg",
+    "Links": ["https://amzn.eu/d/gBsBss6"]
+  },
+  {
+    "Name": "Kindle",
+    "Description": "Weil ich in letzter Zeit so viel lese",
+    "Image": "https://m.media-amazon.com/images/I/51+cfQbcJDL._AC_SX569_.jpg",
+    "Links": ["https://amzn.eu/d/86YcK9q"]
+  },
+  {
+    "Name": "Du bist nicht, was du denkst",
+    "Description": "Habe mir schon die 20min Audio-Zusammenfassung anhört und fande es sehr interessant",
+    "Image": "https://m.media-amazon.com/images/I/81xWMD+QE8L._SY522_.jpg",
+    "Links": ["https://amzn.eu/d/etkQaL0"]
+  },
+  {
+    "Name": "Lorcana",
+    "Description": "Das neue Kartenspiel von Disney mit Mickey Mouse und Simba. Am liebsten 2 Startdecks (1. Das Erste Kapitel - Saphir und Stahl 2. Das Erste Kapitel - Bernstein und Amethyst) aber nicht mehr als 20€ zahlen",
+    "Image": "https://m.media-amazon.com/images/I/71YbkIisLxL._AC_SX679_.jpg",
+    "Links": ["https://amzn.eu/d/a1bJz9a", "https://amzn.eu/d/4yY28d8"]
+  },
 ]
 
 /*
