@@ -221,20 +221,14 @@ const data = [
   {
     "Name": "Boulder-/Kletterhose",
     "Description": "Von der Marke, wo Papa denen Grünen Pulli hat. Da finde ich alles ziemlich schmuck.",
-    "Image": "https://www.chillaz.com/wp-content/uploads/2023/02/210233-4-960x1400.jpg",
-    "Links": ["https://www.chillaz.com/produkte/rofan-cord-mix-dark-grey/"]
+    "Image": "https://www.chillaz.com/wp-content/uploads/2024/01/210266-4-960x1400.jpg",
+    "Links": ["https://www.chillaz.com/produkte/rofan-2-0-cord-mix-grey/"]
   },
   {
     "Name": "Band Shirt",
     "Description": "Das ist mein Lieblings Band-Shirt, aber weil meins schon 10 Jahre alt ist und viel getragen wurde ist es mehr Loch als Shirt",
     "Image": "https://m.media-amazon.com/images/I/71D4o0YzteL._AC_SX569_.jpg",
     "Links": ["https://amzn.eu/d/6MuipMh"]
-  },
-  {
-    "Name": "Pulli",
-    "Description": "Leos Mitbewohner hatte den und ich war verliebt",
-    "Image": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/21/thumb-img/1695254347835255144.jpg",
-    "Links": ["https://de.zaful.com/zaful-ethnische-up-up-up-up-reissverschluss-an-der-vorderseite-flauschige-jacke-puid_5064662.html?kuid=1204044"]
   },
   {
     "Name": "Kochkurs",
