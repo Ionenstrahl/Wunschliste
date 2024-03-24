@@ -215,15 +215,27 @@ const data = [
     "Image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T2/images/I/81RwObv1RsL._SL1500_.jpg",
     "Patron": "Uli & Anja"
   },
-
-
-
   {
     "Name": "Smart + Sicherungskarabiner",
     "Description": "Sicherungsgerät zum Klettern. Beim Sicherungskarabiner ist wichtig, dass er (1) einen extra Verschluss hat und (2) eine Klappe hat, damit er immer richtig im Gurt sitzt. Gerne auch bei Bergzeit bestellen, aber dort schien es keinen so guten Deal zu geben.",
     "Image": "https://images-eu.ssl-images-amazon.com/images/I/61J94jJoHLL._AC_UL232_SR232,232_.jpg",
-    "Links": ["https://amzn.eu/d/68sACgL"]
+    "Patron": "Jonas"
   },
+  {
+    "Name": "Kindle",
+    "Description": "Weil ich in letzter Zeit so viel lese",
+    "Image": "https://m.media-amazon.com/images/I/51+cfQbcJDL._AC_SX569_.jpg",
+    "Patron": "M + P"
+  },
+  {
+    "Name": "Du bist nicht, was du denkst",
+    "Description": "Habe mir schon die 20min Audio-Zusammenfassung anhört und fande es sehr interessant",
+    "Image": "https://m.media-amazon.com/images/I/81xWMD+QE8L._SY522_.jpg",
+    "Patron": "M + P"
+  },
+
+
+
   {
     "Name": "Boulder-/Kletterhose",
     "Description": "Von der Marke, wo Papa denen Grünen Pulli hat. Da finde ich alles ziemlich schmuck.",
@@ -247,18 +259,6 @@ const data = [
     "Description": "Ich fande das war eines der schönesten Festival. Vor allem weil es so klein war und so schön im Wlad gelegen ist.",
     "Image": "https://shop-of-the-forest.de/media/image/3a/63/19/Sound-of-the-Forest-2016-Skyline-by-night-Heidi-Schultz-2_1280x1280.jpg",
     "Links": ["https://sound-of-the-forest.de/tickets/"]
-  },
-  {
-    "Name": "Kindle",
-    "Description": "Weil ich in letzter Zeit so viel lese",
-    "Image": "https://m.media-amazon.com/images/I/51+cfQbcJDL._AC_SX569_.jpg",
-    "Links": ["https://amzn.eu/d/86YcK9q"]
-  },
-  {
-    "Name": "Du bist nicht, was du denkst",
-    "Description": "Habe mir schon die 20min Audio-Zusammenfassung anhört und fande es sehr interessant",
-    "Image": "https://m.media-amazon.com/images/I/81xWMD+QE8L._SY522_.jpg",
-    "Links": ["https://amzn.eu/d/etkQaL0"]
   },
   {
     "Name": "Lorcana",
