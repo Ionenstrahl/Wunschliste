@@ -243,6 +243,12 @@ const data = [
     "Links": ["https://www.chillaz.com/produkte/rofan-2-0-cord-mix-grey/"]
   },
   {
+    "Name": "Nuxe - Creme Fraîche",
+    "Description": "Ein Typ in der Sauna hat sie mir empfohlen - also warum nicht mal ausprobieren. Ist auch nicht glänzend!",
+    "Image": "https://media.douglas.de/medias/vRzz3O1010939-0-global.jpg?context=bWFzdGVyfGltYWdlc3w2MjQzNXxpbWFnZS9qcGVnfGFEQXpMMmcwTlM4eE5qRTJOREE0TURjM09USTVOQzkyVW5wNk0wOHhNREV3T1RNNVh6QmZaMnh2WW1Gc0xtcHdad3xmMDdiY2M1N2EwZDY1NmM5NGY0MDZjYzllYmU0Y2RiZDlmMTIzMTBiZGFmZTM2ZDFmZmZmODZiYTEwZDcwNDUy&grid=true",
+    "Links": ["https://www.douglas.de/de/p/5010623014"]
+  },
+  {
     "Name": "Band Shirt",
     "Description": "Das ist mein Lieblings Band-Shirt, aber weil meins schon 10 Jahre alt ist und viel getragen wurde ist es mehr Loch als Shirt",
     "Image": "https://m.media-amazon.com/images/I/71D4o0YzteL._AC_SX569_.jpg",
