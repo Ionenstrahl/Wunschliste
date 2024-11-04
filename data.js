@@ -237,12 +237,6 @@ const data = [
 
 
   {
-    "Name": "Boulder-/Kletterhose",
-    "Description": "Von der Marke, wo Papa denen Grünen Pulli hat. Da finde ich alles ziemlich schmuck.",
-    "Image": "https://www.chillaz.com/wp-content/uploads/2024/01/210266-4-960x1400.jpg",
-    "Links": ["https://www.chillaz.com/produkte/rofan-2-0-cord-mix-grey/"]
-  },
-  {
     "Name": "Nuxe - Creme Fraîche",
     "Description": "Ein Typ in der Sauna hat sie mir empfohlen - also warum nicht mal ausprobieren. Ist auch nicht glänzend!",
     "Image": "https://media.douglas.de/medias/vRzz3O1010939-0-global.jpg?context=bWFzdGVyfGltYWdlc3w2MjQzNXxpbWFnZS9qcGVnfGFEQXpMMmcwTlM4eE5qRTJOREE0TURjM09USTVOQzkyVW5wNk0wOHhNREV3T1RNNVh6QmZaMnh2WW1Gc0xtcHdad3xmMDdiY2M1N2EwZDY1NmM5NGY0MDZjYzllYmU0Y2RiZDlmMTIzMTBiZGFmZTM2ZDFmZmZmODZiYTEwZDcwNDUy&grid=true",
@@ -259,18 +253,6 @@ const data = [
     "Description": "Gern auch für 2 Personen. Am liebsten vegetarisch und eine etwas ausgefallenere Küche wie asiatisch oder arabisch",
     "Image": "https://aufgetischt.com/wp-content/uploads/2021/02/Kochkurse-2021.jpg",
     "Links": []
-  },
-  {
-    "Name": "2 Festival-Tickets",
-    "Description": "Ich fande das war eines der schönesten Festival. Vor allem weil es so klein war und so schön im Wlad gelegen ist.",
-    "Image": "https://shop-of-the-forest.de/media/image/3a/63/19/Sound-of-the-Forest-2016-Skyline-by-night-Heidi-Schultz-2_1280x1280.jpg",
-    "Links": ["https://sound-of-the-forest.de/tickets/"]
-  },
-  {
-    "Name": "Lorcana",
-    "Description": "Das neue Kartenspiel von Disney mit Mickey Mouse und Simba. Am liebsten 2 Startdecks (1. Das Erste Kapitel - Saphir und Stahl 2. Das Erste Kapitel - Bernstein und Amethyst) aber nicht mehr als 20€ zahlen",
-    "Image": "https://m.media-amazon.com/images/I/71YbkIisLxL._AC_SX679_.jpg",
-    "Links": ["https://amzn.eu/d/a1bJz9a", "https://amzn.eu/d/4yY28d8"]
   },
 ]
 
