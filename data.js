@@ -235,7 +235,36 @@ const data = [
   },
 
 
-
+  {
+    "Name": "Sauna Hut",
+    "Description": "Soll die empfindliche Kopf-Haut schützen",
+    "Image": "https://m.media-amazon.com/images/I/81OEf4cPBXL._AC_SL1500_.jpg",
+    "Links": ["https://amzn.eu/d/1xiRNto"]
+  },
+  {
+    "Name": "Schraubkarabiner",
+    "Description": "gerne gleich 2. Davon hat man immer zu wenig, wenn man draußen klettert",
+    "Image": "https://www.bfgcdn.com/1500_1500_90/322-0129-0311/salewa-hot-g3-screw-carabiner-schraubkarabiner.jpg",
+    "Links": ["https://www.bergfreunde.de/salewa-hot-g3-screw-carabiner-schraubkarabiner/"]
+  },
+  {
+    "Name": "Handschuhe",
+    "Description": "zum Snowboarden. vor allem mit mit Schutz fürs Handgelenk und diese 3 Finger-Variante sieht so witzig aus, dass ich sie haben will. Größe S stimmt.",
+    "Image": "https://m.media-amazon.com/images/I/514-Iei60pL._AC_.jpg",
+    "Links": ["https://amzn.eu/d/3esxs3P"]
+  },
+  {
+    "Name": "Konzertkarten",
+    "Description": "Bloodywood: so würde indisches Linkin Park klingen",
+    "Image": "https://www.metal1.info/wordpress/wp-content/uploads/2022/01/Bloodywood-Rakshak.jpg",
+    "Links": ["https://www.eventim.de/event/bloodywood-return-of-the-singh-tour-25-live-music-hall-19287049/?affiliate=GMD&utm_source=google&utm_medium=cpc&utm_campaign=ar_Hard_Heavy&utm_agid=172025557187&utm_term=bloodywood%20k%C3%B6ln&creative=717498403128&device=c&placement=&gad_source=1&gclid=Cj0KCQiA_qG5BhDTARIsAA0UHSKeyF0YgzSgyNnilupqwwkTxQaNBfGbTvbz3YxDsn_bFTIbiEeqxGMaAuQREALw_wcB"]
+  },
+  {
+    "Name": "Snowboard",
+    "Description": "brauche ein neues Snowboard, da mein Altes gerissen ist. Boots und Bindung sind auch kaputt",
+    "Image": "https://www.burton.com/static/product/W25/10689111000_3ML.png?impolicy=bgwhite&imwidth=1586",
+    "Links": []
+  },
   {
     "Name": "Nuxe - Creme Fraîche",
     "Description": "Ein Typ in der Sauna hat sie mir empfohlen - also warum nicht mal ausprobieren. Ist auch nicht glänzend!",
