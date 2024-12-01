@@ -235,11 +235,13 @@ const data = [
   },
 
 
+
+
   {
-    "Name": "Sauna Hut",
-    "Description": "Soll die empfindliche Kopf-Haut schützen",
-    "Image": "https://m.media-amazon.com/images/I/81OEf4cPBXL._AC_SL1500_.jpg",
-    "Links": ["https://amzn.eu/d/1xiRNto"]
+    "Name": "Blumen",
+    "Description": "Für unsren Flur",
+    "Image": "https://www.lego.com/cdn/cs/set/assets/blt1bcb187351a12753/10342_WEB_PRI_NOBG.png",
+    "Links": ["https://www.lego.com/de-de/product/pretty-pink-flower-bouquet-10342"]
   },
   {
     "Name": "Schraubkarabiner",
