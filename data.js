@@ -128,7 +128,7 @@ const data = [
   {
     "Name": "Tress of the Emerald Sea",
     "Description": "Das Buch wurde neben 3 anderen heimlich geschrieben und letztes Jahr bekannt gegeben. Leider kommt es erst im April raus. Ich freue mich aber auch über eine Vorbestellung",
-    "Image": "https://b1512865.smushcdn.com/1512865/wp-content/uploads/2023/01/00_Cover-scaled-400x600.jpg?lossy=1&strip=1&webp=1",
+    "Image": "https://images.thalia.media/-/BF2000-2000/233f0c628a364a3db385c1fd4e3f8550/tress-of-the-emerald-sea-secret-projects-1-epub-brandon-sanderson.jpeg",
     "Patron": "Anja & Uli"
   },
   {
@@ -182,7 +182,7 @@ const data = [
   {
     "Name": "Stormlight Archive",
     "Description": "Habe dieses Jahr mein erstes Buch von Brandon Sanderson gelesen und war hellauf begeistert. Gerne nur den ersten Band. Finde es aber auch vertretbar die ersten X Bücher geschenkt zu bekommen. WICHTIG: bitte auf Englisch.",
-    "Image": "https://images.thalia.media/00/-/5427597cc9d7454fa54ad9dc7747a7ba/way-of-kings-taschenbuch-brandon-sanderson-englisch.jpeg",
+    "Image": "https://m.media-amazon.com/images/I/81cO02Zz6VL._SL1500_.jpg",
     "Patron": "Anja und Uli"
   },
   {
@@ -212,7 +212,7 @@ const data = [
     {
     "Name": "Warbreaker",
     "Description": "Das ist das romantische Buch von Brandon Sanderson. Wie immer auf Englisch bitte. Wenn ich ein Kindle bekomme auch gerne als E-Book",
-    "Image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T2/images/I/81RwObv1RsL._SL1500_.jpg",
+    "Image": "https://images.thalia.media/-/BF2000-2000/9c2c7972845943b9921b1e00f844183b/warbreaker-taschenbuch-brandon-sanderson-englisch.jpeg",
     "Patron": "Uli & Anja"
   },
   {
