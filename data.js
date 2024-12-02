@@ -250,6 +250,12 @@ const data = [
     "Links": ["https://www.bergfreunde.de/salewa-hot-g3-screw-carabiner-schraubkarabiner/"]
   },
   {
+    "Name": "Flubber",
+    "Description": "Das ist ein Schleim, der meine Tastatur reinigt",
+    "Image": "https://m.media-amazon.com/images/I/61fpNTlp-lS._AC_SL1500_.jpg",
+    "Links": ["https://amzn.eu/d/9SyN8Mi"]
+  },
+  {
     "Name": "Handschuhe",
     "Description": "zum Snowboarden. vor allem mit mit Schutz fürs Handgelenk und diese 3 Finger-Variante sieht so witzig aus, dass ich sie haben will. Größe S stimmt.",
     "Image": "https://m.media-amazon.com/images/I/514-Iei60pL._AC_.jpg",
