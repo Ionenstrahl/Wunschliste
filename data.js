@@ -280,12 +280,6 @@ const data = [
     "Links": ["https://www.bergfreunde.de/salewa-hot-g3-screw-carabiner-schraubkarabiner/"]
   },
   {
-    "Name": "Taucherflossen",
-    "Description": "Das ist mein Lieblings Band-Shirt, aber weil meins schon 10 Jahre alt ist und viel getragen wurde ist es mehr Loch als Shirt",
-    "Image": "https://m.media-amazon.com/images/I/71D4o0YzteL._AC_SX569_.jpg",
-    "Links": ["https://amzn.eu/d/6MuipMh"]
-  },
-  {
     "Name": "Band Shirt",
     "Description": "Das ist mein Lieblings Band-Shirt, aber weil meins schon 10 Jahre alt ist und viel getragen wurde ist es mehr Loch als Shirt",
     "Image": "https://m.media-amazon.com/images/I/71D4o0YzteL._AC_SX569_.jpg",
