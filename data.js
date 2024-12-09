@@ -262,12 +262,6 @@ const data = [
     "Links": ["https://amzn.eu/d/3esxs3P"]
   },
   {
-    "Name": "Snowboard",
-    "Description": "brauche ein neues Snowboard, da mein Altes gerissen ist. Boots und Bindung sind auch kaputt",
-    "Image": "https://www.burton.com/static/product/W25/10689111000_3ML.png?impolicy=bgwhite&imwidth=1586",
-    "Links": []
-  },
-  {
     "Name": "Konzertkarten",
     "Description": "Bloodywood: so würde indisches Linkin Park klingen",
     "Image": "https://www.metal1.info/wordpress/wp-content/uploads/2022/01/Bloodywood-Rakshak.jpg",
@@ -284,6 +278,12 @@ const data = [
     "Description": "Damit hätte ich 2 Boulderhosen und kann sie schön rotieren",
     "Image": "https://www.bfgcdn.com/1500_1500_90/009-1282/chillaz-rofan-20-cord-mix-boulderhose-detail-4.jpg",
     "Links": ["https://www.bergfreunde.de/chillaz-rofan-20-cord-mix-boulderhose/?aid=3d41c37022e14a66f6023c90465538b1&"]
+  },
+  {
+    "Name": "Snowboard",
+    "Description": "brauche ein neues Snowboard, da mein Altes gerissen ist. Boots und Bindung sind auch kaputt wünsche ich mir dazu. Am liebsten soll es ein Allround-Brett sein",
+    "Image": "https://www.burton.com/static/product/W25/10689111000_3ML.png?impolicy=bgwhite&imwidth=1586",
+    "Links": []
   },
   {
     "Name": "Band Shirt",
