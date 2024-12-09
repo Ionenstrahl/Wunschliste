@@ -280,6 +280,12 @@ const data = [
     "Links": ["https://www.bergfreunde.de/salewa-hot-g3-screw-carabiner-schraubkarabiner/"]
   },
   {
+    "Name": "Boulderhose",
+    "Description": "Damit hätte ich 2 Boulderhosen und kann sie schön rotieren",
+    "Image": "https://www.bfgcdn.com/1500_1500_90/009-1282/chillaz-rofan-20-cord-mix-boulderhose-detail-4.jpg",
+    "Links": ["https://www.bergfreunde.de/chillaz-rofan-20-cord-mix-boulderhose/?aid=3d41c37022e14a66f6023c90465538b1&"]
+  },
+  {
     "Name": "Band Shirt",
     "Description": "Das ist mein Lieblings Band-Shirt, aber weil meins schon 10 Jahre alt ist und viel getragen wurde ist es mehr Loch als Shirt",
     "Image": "https://m.media-amazon.com/images/I/71D4o0YzteL._AC_SX569_.jpg",
