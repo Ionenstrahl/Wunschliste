@@ -261,7 +261,7 @@ const data = [
     "Name": "Boulderhose",
     "Description": "Damit hätte ich 2 Boulderhosen und kann sie schön rotieren",
     "Image": "https://www.bfgcdn.com/1500_1500_90/009-1282/chillaz-rofan-20-cord-mix-boulderhose-detail-4.jpg",
-
+    "Patron": "M + P"
   },
   {
     "Name": "Nuxe - Creme Fraîche",
