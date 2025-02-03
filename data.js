@@ -270,6 +270,19 @@ const data = [
     "Patron": "Lena"
   },
 
+
+  {
+    "Name": "Mistborn Brettspiel",
+    "Description": "Das ist ein Spiel aus dem Universum, in dem die 20 Bücher gespielt haben, die ich letztes Jahr gelesen habe (und gerade das letzte lese)",
+    "Image": "https://www.fantasywelt.de/media/image/product/188531/lg/mistborn-the-deckbuilding-game-en.jpg",
+    "Links": ["https://www.fantasywelt.de/Mistborn-The-Deckbuilding-Game-EN_1"]
+  },
+  {
+    "Name": "Banane (Chiquita)",
+    "Description": "Die kann man in die Boulderschuhe stecken und dann stinken sie nicht mehr. Da freut sich wirklich jeder!",
+    "Image": "https://m.media-amazon.com/images/I/61YxFzOEdOL._AC_SL1500_.jpg",
+    "Links": ["https://amzn.eu/d/a0ZjF9e"]
+  },
   {
     "Name": "Blumen",
     "Description": "Für unsren Flur",
@@ -281,12 +294,6 @@ const data = [
     "Description": "Das ist ein Schleim, der meine Tastatur reinigt",
     "Image": "https://m.media-amazon.com/images/I/61fpNTlp-lS._AC_SL1500_.jpg",
     "Links": ["https://amzn.eu/d/9SyN8Mi"]
-  },
-  {
-    "Name": "Snowboard",
-    "Description": "brauche ein neues Snowboard, da mein Altes gerissen ist. Boots und Bindung sind auch kaputt wünsche ich mir dazu. Am liebsten soll es ein Allround-Brett sein",
-    "Image": "https://www.burton.com/static/product/W25/10689111000_3ML.png?impolicy=bgwhite&imwidth=1586",
-    "Links": []
   },
   {
     "Name": "Band Shirt",
