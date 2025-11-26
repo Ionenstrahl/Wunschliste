@@ -315,8 +315,8 @@ const data = [
   {
     "Name": "Köln Maraton",
     "Description": "Den würde ich nächstes Jahr gerne ausprobieren",
-    "Image": "https://generali-koeln-marathon.de/wettbewerbe/marathon/",
-    "Links": ["https://generali-koeln-marathon.de/wp-content/uploads/2024/11/nw_241006_10_40_15-3_Marathon_klein-e1730978698143.jpg"]
+    "Image": "https://generali-koeln-marathon.de/wp-content/uploads/2024/11/nw_241006_10_40_15-3_Marathon_klein-e1730978698143.jpg",
+    "Links": ["https://generali-koeln-marathon.de/anmeldung/?regname=1_Marathon"]
   },
   {
     "Name": "Laufhose (kurz)",
@@ -371,6 +371,7 @@ const data = [
         - der astronaut
       - Das geräusch einer schnecke beim Essen (hat astrid berührt)
 */
+
 
 
 
