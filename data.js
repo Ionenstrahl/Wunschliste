@@ -295,6 +295,12 @@ const data = [
     "Links": []
   },
   {
+    "Name": "Isles of the Emberdark",
+    "Description": "Das neues Buch von Brandon Sanderson. Gerne auf englisch. Der Vorteil vom gedruckten Buch ist, dass ich es Hannah auch geben kann.",
+    "Image": "https://images.thalia.media/-/BF2000-2000/ea9704143e764f1b82f2e8e172c1bb0e/isles-of-the-emberdark-taschenbuch-brandon-sanderson-englisch.jpeg",
+    "Links": ["https://www.thalia.de/shop/home/artikeldetails/A1075063860"]
+  },
+  {
     "Name": "Buch-Gutschein Analog",
     "Description": "Das ist eine kleine Bücherei direkt bei mir im Vedel. Da war ich schon ein paar mal und es ist richtig schön sich dort beraten zu lassen.",
     "Image": "https://media-all.buchhandlung.de//shared-cms/media/AFFILIATE/9b251c284e7b8c75/a4/e698bf177b08b8-1718617940125.jpeg",
@@ -310,7 +316,7 @@ const data = [
     "Name": "Köln Maraton",
     "Description": "Den würde ich nächstes Jahr gerne ausprobieren",
     "Image": "https://generali-koeln-marathon.de/wettbewerbe/marathon/",
-    "Links": ["https://generali-koeln-marathon.de/anmeldung/?regname=1_Marathon"]
+    "Links": ["https://generali-koeln-marathon.de/wp-content/uploads/2024/11/nw_241006_10_40_15-3_Marathon_klein-e1730978698143.jpg"]
   },
   {
     "Name": "Laufhose (kurz)",
@@ -365,6 +371,7 @@ const data = [
         - der astronaut
       - Das geräusch einer schnecke beim Essen (hat astrid berührt)
 */
+
 
 
 
