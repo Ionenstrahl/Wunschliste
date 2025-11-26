@@ -267,28 +267,27 @@ const data = [
     "Name": "Nuxe - Creme Fraîche",
     "Description": "Ein Typ in der Sauna hat sie mir empfohlen - also warum nicht mal ausprobieren. Ist auch nicht glänzend!",
     "Image": "https://media.douglas.de/medias/vRzz3O1010939-0-global.jpg?context=bWFzdGVyfGltYWdlc3w2MjQzNXxpbWFnZS9qcGVnfGFEQXpMMmcwTlM4eE5qRTJOREE0TURjM09USTVOQzkyVW5wNk0wOHhNREV3T1RNNVh6QmZaMnh2WW1Gc0xtcHdad3xmMDdiY2M1N2EwZDY1NmM5NGY0MDZjYzllYmU0Y2RiZDlmMTIzMTBiZGFmZTM2ZDFmZmZmODZiYTEwZDcwNDUy&grid=true",
-    "Patron": "Lena"
+    
   },
-
-
   {
-    "Name": "Mistborn Brettspiel",
-    "Description": "Das ist ein Spiel aus dem Universum, in dem die 20 Bücher gespielt haben, die ich letztes Jahr gelesen habe (und gerade das letzte lese)",
-    "Image": "https://www.fantasywelt.de/media/image/product/188531/lg/mistborn-the-deckbuilding-game-en.jpg",
-    "Links": ["https://www.fantasywelt.de/Mistborn-The-Deckbuilding-Game-EN_1"]
+    "Name": "Band Shirt",
+    "Description": "Das ist mein Lieblings Band-Shirt, aber weil meins schon 10 Jahre alt ist und viel getragen wurde ist es mehr Loch als Shirt",
+    "Image": "https://m.media-amazon.com/images/I/71D4o0YzteL._AC_SX569_.jpg",
+    "Patron": "Honey <3"
   },
   {
     "Name": "Banane (Chiquita)",
     "Description": "Die kann man in die Boulderschuhe stecken und dann stinken sie nicht mehr. Da freut sich wirklich jeder!",
     "Image": "https://m.media-amazon.com/images/I/61YxFzOEdOL._AC_SL1500_.jpg",
-    "Links": ["https://amzn.eu/d/a0ZjF9e"]
+    "Patron": "Joni"
   },
   {
-    "Name": "Blumen",
-    "Description": "Für unsren Flur",
-    "Image": "https://www.lego.com/cdn/cs/set/assets/blt1bcb187351a12753/10342_WEB_PRI_NOBG.png",
-    "Links": ["https://www.lego.com/de-de/product/pretty-pink-flower-bouquet-10342"]
+    "Name": "Kochkurs",
+    "Description": "Gern auch für 2 Personen. Am liebsten vegetarisch und eine etwas ausgefallenere Küche wie asiatisch oder arabisch",
+    "Image": "https://aufgetischt.com/wp-content/uploads/2021/02/Kochkurse-2021.jpg",
+    "Patron": "M + P"
   },
+
   {
     "Name": "Flubber",
     "Description": "Das ist ein Schleim, der meine Tastatur reinigt",
@@ -296,17 +295,20 @@ const data = [
     "Links": ["https://amzn.eu/d/9SyN8Mi"]
   },
   {
-    "Name": "Band Shirt",
-    "Description": "Das ist mein Lieblings Band-Shirt, aber weil meins schon 10 Jahre alt ist und viel getragen wurde ist es mehr Loch als Shirt",
-    "Image": "https://m.media-amazon.com/images/I/71D4o0YzteL._AC_SX569_.jpg",
-    "Links": ["https://amzn.eu/d/6MuipMh"]
+    "Name": "Mistborn Brettspiel",
+    "Description": "Das ist ein Spiel aus dem Universum, in dem die 20 Bücher gespielt haben, die ich letztes Jahr gelesen habe (und gerade das letzte lese)",
+    "Image": "https://www.fantasywelt.de/media/image/product/188531/lg/mistborn-the-deckbuilding-game-en.jpg",
+    "Links": ["https://www.fantasywelt.de/Mistborn-The-Deckbuilding-Game-EN_1"]
   },
   {
-    "Name": "Kochkurs",
-    "Description": "Gern auch für 2 Personen. Am liebsten vegetarisch und eine etwas ausgefallenere Küche wie asiatisch oder arabisch",
-    "Image": "https://aufgetischt.com/wp-content/uploads/2021/02/Kochkurse-2021.jpg",
-    "Links": []
+    "Name": "Blumen",
+    "Description": "Für unsren Flur",
+    "Image": "https://www.lego.com/cdn/cs/set/assets/blt1bcb187351a12753/10342_WEB_PRI_NOBG.png",
+    "Links": ["https://www.lego.com/de-de/product/pretty-pink-flower-bouquet-10342"]
   },
+
+
+
 ]
 
 /*
@@ -321,3 +323,4 @@ const data = [
         - der astronaut
       - Das geräusch einer schnecke beim Essen (hat astrid berührt)
 */
+
