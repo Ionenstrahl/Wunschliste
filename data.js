@@ -267,7 +267,7 @@ const data = [
     "Name": "Nuxe - Creme Fraîche",
     "Description": "Ein Typ in der Sauna hat sie mir empfohlen - also warum nicht mal ausprobieren. Ist auch nicht glänzend!",
     "Image": "https://media.douglas.de/medias/vRzz3O1010939-0-global.jpg?context=bWFzdGVyfGltYWdlc3w2MjQzNXxpbWFnZS9qcGVnfGFEQXpMMmcwTlM4eE5qRTJOREE0TURjM09USTVOQzkyVW5wNk0wOHhNREV3T1RNNVh6QmZaMnh2WW1Gc0xtcHdad3xmMDdiY2M1N2EwZDY1NmM5NGY0MDZjYzllYmU0Y2RiZDlmMTIzMTBiZGFmZTM2ZDFmZmZmODZiYTEwZDcwNDUy&grid=true",
-    
+    "Patron": "M + P"
   },
   {
     "Name": "Band Shirt",
@@ -289,6 +289,11 @@ const data = [
   },
 
   {
+    "Name": "2 Buffs",
+    "Description": "Irgendwie habe ich meine Buffs verlegt. Ich hätte gerne ein schlichtes und schönes und dann noch ein buntes und cooles",
+    "Image": "https://img.hutshopping.de/Reversible-Polar-Khewra-Multifunktionstuch-by-BUFF-bunt.54199_rf102.jpg"
+  },
+  {
     "Name": "Buch-Gutschein Analog",
     "Description": "Das ist eine kleine Bücherei direkt bei mir im Vedel. Da war ich schon ein paar mal und es ist richtig schön sich dort beraten zu lassen.",
     "Image": "https://media-all.buchhandlung.de//shared-cms/media/AFFILIATE/9b251c284e7b8c75/a4/e698bf177b08b8-1718617940125.jpeg",
@@ -301,22 +306,33 @@ const data = [
     "Links": ["https://amzn.eu/d/7JqRQVs"]
   },
   {
+    "Name": "Köln Maraton",
+    "Description": "Den würde ich nächstes Jahr gerne ausprobieren",
+    "Image": "https://generali-koeln-marathon.de/wettbewerbe/marathon/",
+    "Links": ["https://generali-koeln-marathon.de/anmeldung/?regname=1_Marathon"]
+  },
+  {
     "Name": "Flubber",
     "Description": "Das ist ein Schleim, der meine Tastatur reinigt",
     "Image": "https://m.media-amazon.com/images/I/61fpNTlp-lS._AC_SL1500_.jpg",
     "Links": ["https://amzn.eu/d/9SyN8Mi"]
   },
   {
-    "Name": "Mistborn Brettspiel",
-    "Description": "Das ist ein Spiel aus dem Universum, in dem die 20 Bücher gespielt haben, die ich letztes Jahr gelesen habe (und gerade das letzte lese)",
-    "Image": "https://www.fantasywelt.de/media/image/product/188531/lg/mistborn-the-deckbuilding-game-en.jpg",
-    "Links": ["https://www.fantasywelt.de/Mistborn-The-Deckbuilding-Game-EN_1"]
-  },
-  {
     "Name": "Blumen",
     "Description": "Für unsren Flur",
     "Image": "https://www.lego.com/cdn/cs/set/assets/blt1bcb187351a12753/10342_WEB_PRI_NOBG.png",
     "Links": ["https://www.lego.com/de-de/product/pretty-pink-flower-bouquet-10342"]
+  },
+  {
+    "Name": "Flaschenöffner",
+    "Description": "Unserer ist kaputt. Ich weiß aber nocht nicht, ob ich einfach einen einfachen Flaschenöffner will, oder ob ich da auch noch einen integrieten Weinöffner benötige",
+    "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3XFKrgvxo-T604-0I2M0EoX4CeY6VXsz7xQ&s"
+  },
+  {
+    "Name": "Mistborn Brettspiel",
+    "Description": "Das ist ein Spiel aus dem Universum, in dem die 20 Bücher gespielt haben, die ich letztes Jahr gelesen habe (und gerade das letzte lese)",
+    "Image": "https://www.fantasywelt.de/media/image/product/188531/lg/mistborn-the-deckbuilding-game-en.jpg",
+    "Links": ["https://www.fantasywelt.de/Mistborn-The-Deckbuilding-Game-EN_1"]
   }
 
 
@@ -335,5 +351,6 @@ const data = [
         - der astronaut
       - Das geräusch einer schnecke beim Essen (hat astrid berührt)
 */
+
 
 
