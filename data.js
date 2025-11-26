@@ -291,7 +291,8 @@ const data = [
   {
     "Name": "2 Buffs",
     "Description": "Irgendwie habe ich meine Buffs verlegt. Ich hätte gerne ein schlichtes und schönes und dann noch ein buntes und cooles",
-    "Image": "https://img.hutshopping.de/Reversible-Polar-Khewra-Multifunktionstuch-by-BUFF-bunt.54199_rf102.jpg"
+    "Image": "https://img.hutshopping.de/Reversible-Polar-Khewra-Multifunktionstuch-by-BUFF-bunt.54199_rf102.jpg",
+    "Links": []
   },
   {
     "Name": "Buch-Gutschein Analog",
@@ -314,7 +315,8 @@ const data = [
   {
     "Name": "Laufhose (kurz)",
     "Description": "Irgendeine Hose die eng anliegt und das Scheuern an den Beinen verhidnert",
-    "Image": "https://surpasofficial.com/cdn/shop/files/VL25-0104_1.png?v=1754841965"
+    "Image": "https://surpasofficial.com/cdn/shop/files/VL25-0104_1.png?v=1754841965",
+    "Links": []
   },
   {
     "Name": "Flubber",
@@ -325,7 +327,8 @@ const data = [
   {
     "Name": "Mittelgroßer Trekking Rucksack",
     "Description": "einfach für Hüttenwanderungen. Habe noch keinen genauen vor Augen. Vielleicht der Deuter Futura 26",
-    "Image": "https://dk0fkjygbn9vu.cloudfront.net/cache-buster-11762471383/deuter/mediaroom/product-images/backpacks/hiking-backpacks/285261/image-thumb__285261__deuter_lightbox-img/3400621-1374-Futura26_atlantic_ink-D-00.png"
+    "Image": "https://dk0fkjygbn9vu.cloudfront.net/cache-buster-11762471383/deuter/mediaroom/product-images/backpacks/hiking-backpacks/285261/image-thumb__285261__deuter_lightbox-img/3400621-1374-Futura26_atlantic_ink-D-00.png",
+    "Links": []
   },
   {
     "Name": "Blumen",
@@ -336,7 +339,8 @@ const data = [
   {
     "Name": "Flaschenöffner",
     "Description": "Unserer ist kaputt. Ich weiß aber nocht nicht, ob ich einfach einen einfachen Flaschenöffner will, oder ob ich da auch noch einen integrieten Weinöffner benötige",
-    "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3XFKrgvxo-T604-0I2M0EoX4CeY6VXsz7xQ&s"
+    "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3XFKrgvxo-T604-0I2M0EoX4CeY6VXsz7xQ&s",
+    "Links": []
   },
   {
     "Name": "Mistborn Brettspiel",
@@ -361,6 +365,7 @@ const data = [
         - der astronaut
       - Das geräusch einer schnecke beim Essen (hat astrid berührt)
 */
+
 
 
 
