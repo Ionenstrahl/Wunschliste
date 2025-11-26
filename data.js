@@ -289,6 +289,18 @@ const data = [
   },
 
   {
+    "Name": "Buch-Gutschein Analog",
+    "Description": "Das ist eine kleine Bücherei direkt bei mir im Vedel. Da war ich schon ein paar mal und es ist richtig schön sich dort beraten zu lassen.",
+    "Image": "https://media-all.buchhandlung.de//shared-cms/media/AFFILIATE/9b251c284e7b8c75/a4/e698bf177b08b8-1718617940125.jpeg",
+    "Links": ["https://buecherweyer.buchhandlung.de/shop/magazine/13483/geschenkgutschein.html?teaser=Home_XL-50_slot1_Geschenkgutschein"]
+  },
+  {
+    "Name": "Buch-Gutschein Digital",
+    "Description": "Mit dem Amazon-Guthaben kann ich mir neue Bücher für mein Kindle kaufen",
+    "Image": "https://m.media-amazon.com/images/I/61EEVKr1CdL._SX522_.jpg",
+    "Links": ["https://amzn.eu/d/7JqRQVs"]
+  },
+  {
     "Name": "Flubber",
     "Description": "Das ist ein Schleim, der meine Tastatur reinigt",
     "Image": "https://m.media-amazon.com/images/I/61fpNTlp-lS._AC_SL1500_.jpg",
@@ -305,7 +317,7 @@ const data = [
     "Description": "Für unsren Flur",
     "Image": "https://www.lego.com/cdn/cs/set/assets/blt1bcb187351a12753/10342_WEB_PRI_NOBG.png",
     "Links": ["https://www.lego.com/de-de/product/pretty-pink-flower-bouquet-10342"]
-  },
+  }
 
 
 
@@ -323,4 +335,5 @@ const data = [
         - der astronaut
       - Das geräusch einer schnecke beim Essen (hat astrid berührt)
 */
+
 
