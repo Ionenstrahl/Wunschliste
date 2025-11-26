@@ -312,10 +312,20 @@ const data = [
     "Links": ["https://generali-koeln-marathon.de/anmeldung/?regname=1_Marathon"]
   },
   {
+    "Name": "Laufhose (kurz)",
+    "Description": "Irgendeine Hose die eng anliegt und das Scheuern an den Beinen verhidnert",
+    "Image": "https://surpasofficial.com/cdn/shop/files/VL25-0104_1.png?v=1754841965"
+  },
+  {
     "Name": "Flubber",
     "Description": "Das ist ein Schleim, der meine Tastatur reinigt",
     "Image": "https://m.media-amazon.com/images/I/61fpNTlp-lS._AC_SL1500_.jpg",
     "Links": ["https://amzn.eu/d/9SyN8Mi"]
+  },
+  {
+    "Name": "Mittelgroßer Trekking Rucksack",
+    "Description": "einfach für Hüttenwanderungen. Habe noch keinen genauen vor Augen. Vielleicht der Deuter Futura 26",
+    "Image": "https://dk0fkjygbn9vu.cloudfront.net/cache-buster-11762471383/deuter/mediaroom/product-images/backpacks/hiking-backpacks/285261/image-thumb__285261__deuter_lightbox-img/3400621-1374-Futura26_atlantic_ink-D-00.png"
   },
   {
     "Name": "Blumen",
@@ -351,6 +361,7 @@ const data = [
         - der astronaut
       - Das geräusch einer schnecke beim Essen (hat astrid berührt)
 */
+
 
 
 
