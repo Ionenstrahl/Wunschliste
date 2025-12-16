@@ -320,9 +320,9 @@ const data = [
   },
   {
     "Name": "Buch-Gutschein Analog",
-    "Description": "Das ist eine kleine Bücherei direkt bei mir im Vedel. Da war ich schon ein paar mal und es ist richtig schön sich dort beraten zu lassen.",
+    "Description": "Das ist eine kleine Bücherei direkt bei mir im Vedel. Da war ich schon ein paar mal und es ist richtig schön sich dort beraten zu lassen. Der Gutschein muss aber vor Ort gekauft werden,",
     "Image": "https://media-all.buchhandlung.de//shared-cms/media/AFFILIATE/9b251c284e7b8c75/a4/e698bf177b08b8-1718617940125.jpeg",
-    "Links": ["https://buecherweyer.buchhandlung.de/shop/magazine/13483/geschenkgutschein.html?teaser=Home_XL-50_slot1_Geschenkgutschein"]
+    "Links": ["https://api.whatsapp.com/send?phone=0123456789&text=Hallo%20Hannah,%20ich%20würde%20Jonas%20gerne%20den%20B%C3%BCchergutschein%20schenken.%20Kannst%20du%20ihn%20f%C3%BCr%20mich%20beim%20B%C3%BCcherladen%20kaufen%3F"]
   },
   {
     "Name": "Buch-Gutschein Digital",
@@ -377,6 +377,7 @@ const data = [
         - der astronaut
       - Das geräusch einer schnecke beim Essen (hat astrid berührt)
 */
+
 
 
 
