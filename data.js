@@ -287,13 +287,37 @@ const data = [
     "Image": "https://aufgetischt.com/wp-content/uploads/2021/02/Kochkurse-2021.jpg",
     "Patron": "M + P"
   },
-
   {
     "Name": "2 Buffs",
     "Description": "Irgendwie habe ich meine Buffs verlegt. Ich hätte gerne ein schlichtes und schönes und dann noch ein buntes und cooles",
     "Image": "https://img.hutshopping.de/Reversible-Polar-Khewra-Multifunktionstuch-by-BUFF-bunt.54199_rf102.jpg",
-    "Links": []
+    "Patron": "Anja + Uli + M + P"
   },
+  {
+    "Name": "Regenhose für Rad",
+    "Description": "Zum drüberziehen, dass ich beid er Arbeit mit trockener Hose ankomme. Am liebsten mit Möglichkeit die Fesseln eng einzustellen, sodass dir Hose nicht in die Kette kommt.",
+    "Image": "https://www.fahrradmagazin.net/bilder/2020/09/fahrrad-regenhosen.jpg",
+    "Patron": "M + P"
+  },
+  {
+    "Name": "Buch-Gutschein Analog",
+    "Description": "Das ist eine kleine Bücherei direkt bei mir im Vedel. Da war ich schon ein paar mal und es ist richtig schön sich dort beraten zu lassen. Der Gutschein muss aber vor Ort gekauft werden,",
+    "Image": "https://media-all.buchhandlung.de//shared-cms/media/AFFILIATE/9b251c284e7b8c75/a4/e698bf177b08b8-1718617940125.jpeg",
+    "Patron": "Anja und Uli"
+  },
+  {
+    "Name": "Mittelgroßer Trekking Rucksack",
+    "Description": "einfach für Hüttenwanderungen. Habe noch keinen genauen vor Augen. Vielleicht der Deuter Futura 26",
+    "Image": "https://dk0fkjygbn9vu.cloudfront.net/cache-buster-11762471383/deuter/mediaroom/product-images/backpacks/hiking-backpacks/285261/image-thumb__285261__deuter_lightbox-img/3400621-1374-Futura26_atlantic_ink-D-00.png",
+    "Patron": "Papa"
+  },
+    {
+    "Name": "Flaschenöffner",
+    "Description": "Unserer ist kaputt. Am bestein einen Bieröffner mit integrriertem Weinöffner.",
+    "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3XFKrgvxo-T604-0I2M0EoX4CeY6VXsz7xQ&s",
+    "Patron": ["Leni"]
+  },
+  
   {
     "Name": "Isles of the Emberdark",
     "Description": "Das neues Buch von Brandon Sanderson. Gerne auf englisch. Der Vorteil vom gedruckten Buch ist, dass ich es Hannah auch geben kann.",
@@ -305,12 +329,6 @@ const data = [
     "Description": "Den würde ich nächstes Jahr gerne ausprobieren",
     "Image": "https://generali-koeln-marathon.de/wp-content/uploads/2024/11/nw_241006_10_40_15-3_Marathon_klein-e1730978698143.jpg",
     "Links": ["https://generali-koeln-marathon.de/anmeldung/?regname=1_Marathon"]
-  },
-  {
-    "Name": "Regenhose für Rad",
-    "Description": "Zum drüberziehen, dass ich beid er Arbeit mit trockener Hose ankomme. Am liebsten mit Möglichkeit die Fesseln eng einzustellen, sodass dir Hose nicht in die Kette kommt.",
-    "Image": "https://www.fahrradmagazin.net/bilder/2020/09/fahrrad-regenhosen.jpg",
-    "Links": []
   },
   {
     "Name": "Laufhose (kurz)",
@@ -337,24 +355,6 @@ const data = [
     "Links": ["https://amzn.eu/d/9SyN8Mi"]
   },
   {
-    "Name": "Mittelgroßer Trekking Rucksack",
-    "Description": "einfach für Hüttenwanderungen. Habe noch keinen genauen vor Augen. Vielleicht der Deuter Futura 26",
-    "Image": "https://dk0fkjygbn9vu.cloudfront.net/cache-buster-11762471383/deuter/mediaroom/product-images/backpacks/hiking-backpacks/285261/image-thumb__285261__deuter_lightbox-img/3400621-1374-Futura26_atlantic_ink-D-00.png",
-    "Links": []
-  },
-  {
-    "Name": "Flaschenöffner",
-    "Description": "Unserer ist kaputt. Am bestein einen Bieröffner mit integrriertem Weinöffner.",
-    "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3XFKrgvxo-T604-0I2M0EoX4CeY6VXsz7xQ&s",
-    "Links": []
-  },
-  {
-    "Name": "Blumen",
-    "Description": "Für unsren Flur",
-    "Image": "https://www.lego.com/cdn/cs/set/assets/blt1bcb187351a12753/10342_WEB_PRI_NOBG.png",
-    "Links": ["https://www.lego.com/de-de/product/pretty-pink-flower-bouquet-10342"]
-  },
-  {
     "Name": "Mistborn Brettspiel",
     "Description": "Das ist ein Spiel aus dem Universum, in dem die 20 Bücher gespielt haben, die ich letztes Jahr gelesen habe (und gerade das letzte lese)",
     "Image": "https://www.fantasywelt.de/media/image/product/188531/lg/mistborn-the-deckbuilding-game-en.jpg",
@@ -377,6 +377,7 @@ const data = [
         - der astronaut
       - Das geräusch einer schnecke beim Essen (hat astrid berührt)
 */
+
 
 
 
