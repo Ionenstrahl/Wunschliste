@@ -325,18 +325,6 @@ const data = [
     "Links": ["https://www.thalia.de/shop/home/artikeldetails/A1075063860"]
   },
   {
-    "Name": "Köln Maraton",
-    "Description": "Den würde ich nächstes Jahr gerne ausprobieren",
-    "Image": "https://generali-koeln-marathon.de/wp-content/uploads/2024/11/nw_241006_10_40_15-3_Marathon_klein-e1730978698143.jpg",
-    "Links": ["https://generali-koeln-marathon.de/anmeldung/?regname=1_Marathon"]
-  },
-  {
-    "Name": "Laufhose (kurz)",
-    "Description": "Irgendeine Hose die eng anliegt und das Scheuern an den Beinen verhidnert",
-    "Image": "https://surpasofficial.com/cdn/shop/files/VL25-0104_1.png?v=1754841965",
-    "Links": []
-  },
-  {
     "Name": "Buch-Gutschein Analog",
     "Description": "Das ist eine kleine Bücherei direkt bei mir im Vedel. Da war ich schon ein paar mal und es ist richtig schön sich dort beraten zu lassen. Der Gutschein muss aber vor Ort gekauft werden,",
     "Image": "https://media-all.buchhandlung.de//shared-cms/media/AFFILIATE/9b251c284e7b8c75/a4/e698bf177b08b8-1718617940125.jpeg",
@@ -377,6 +365,7 @@ const data = [
         - der astronaut
       - Das geräusch einer schnecke beim Essen (hat astrid berührt)
 */
+
 
 
 
