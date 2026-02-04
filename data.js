@@ -331,6 +331,12 @@ const data = [
     "Links": ["https://amzn.eu/d/0bYjqLWq"]
   },
   {
+    "Name": "Mediterana Gutschein",
+    "Description": "Ich war da erst einmal und habe mich dort zu Hafenspiel und in der Feuner und Wasser Sauna entspannt. Damals mochte ich Sauna noch gar nicht, aber jetzt schon.",
+    "Image": "https://www.mediterana.de/fileadmin/_processed_/c/1/csm_medi_pattern_textur_e7676af8ae.webp",
+    "Links": ["https://www.mediterana.de/"]
+  },
+  {
     "Name": "Buch-Gutschein Analog",
     "Description": "Das ist eine kleine Bücherei direkt bei mir im Vedel. Da war ich schon ein paar mal und es ist richtig schön sich dort beraten zu lassen. Der Gutschein muss aber vor Ort gekauft werden,",
     "Image": "https://media-all.buchhandlung.de//shared-cms/media/AFFILIATE/9b251c284e7b8c75/a4/e698bf177b08b8-1718617940125.jpeg",
@@ -371,6 +377,7 @@ const data = [
         - der astronaut
       - Das geräusch einer schnecke beim Essen (hat astrid berührt)
 */
+
 
 
 
