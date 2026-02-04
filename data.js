@@ -337,6 +337,13 @@ const data = [
     "Links": ["https://www.mediterana.de/"]
   },
   {
+    "Name": "Magic Matte",
+    "Description": "Meine Magic Matte ist mittlerweile über 10 Jahre alt. Gerne die Avatar Matte. Aber weil die gerade nicht verfügbar ist auch gerne die andere.",
+    "Image": "https://trader-online.de/out/pictures/master/product/1/Ultimate-Guard-Spielmatte-Standardgre-ca-61x35-cm-MTG-Avatar-Der-Herr-der-Elemente-Bastion-der-Erinnerung_4056133043182.webp",
+    "Links": ["https://trader-online.de/magic-the-gathering/zubehoer/spielmatten/ultimate-guard-spielmatte-standardgroesse-ca-61x35-cm-mtg-avatar-der-herr-der-elemente-bastion-der-erinnerung.html?delivery_alarm=1",
+             "https://www.fantasywelt.de/SALE-UP-Dominaria-United-Playmat-C-for-Magic-The-Gathering"]
+  },
+  {
     "Name": "Buch-Gutschein Analog",
     "Description": "Das ist eine kleine Bücherei direkt bei mir im Vedel. Da war ich schon ein paar mal und es ist richtig schön sich dort beraten zu lassen. Der Gutschein muss aber vor Ort gekauft werden,",
     "Image": "https://media-all.buchhandlung.de//shared-cms/media/AFFILIATE/9b251c284e7b8c75/a4/e698bf177b08b8-1718617940125.jpeg",
@@ -377,6 +384,7 @@ const data = [
         - der astronaut
       - Das geräusch einer schnecke beim Essen (hat astrid berührt)
 */
+
 
 
 
