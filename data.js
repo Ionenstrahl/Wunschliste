@@ -344,6 +344,12 @@ const data = [
              "https://www.fantasywelt.de/SALE-UP-Dominaria-United-Playmat-C-for-Magic-The-Gathering"]
   },
   {
+    "Name": "SIGG Flasche",
+    "Description": "Habe viele meiner Flaschen verloren und finde die kleine rote hübsch.",
+    "Image": "https://sigg.com/cdn/shop/files/8326.30_0.6L_Traveller_Red-rfw.png?v=1730712644&width=1000",
+    "Links": ["https://sigg.com/products/trinkflasche-traveller?variant=49804096471386"]
+  },
+  {
     "Name": "Buch-Gutschein Analog",
     "Description": "Das ist eine kleine Bücherei direkt bei mir im Vedel. Da war ich schon ein paar mal und es ist richtig schön sich dort beraten zu lassen. Der Gutschein muss aber vor Ort gekauft werden,",
     "Image": "https://media-all.buchhandlung.de//shared-cms/media/AFFILIATE/9b251c284e7b8c75/a4/e698bf177b08b8-1718617940125.jpeg",
@@ -384,6 +390,7 @@ const data = [
         - der astronaut
       - Das geräusch einer schnecke beim Essen (hat astrid berührt)
 */
+
 
 
 
