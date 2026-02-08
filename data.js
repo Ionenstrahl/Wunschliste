@@ -325,6 +325,12 @@ const data = [
     "Links": ["https://www.thalia.de/shop/home/artikeldetails/A1075063860"]
   },
   {
+    "Name": "Rick and Morty vs. Dungeons & Dragons",
+    "Description": "Comic Sammlung, von einer Sci-Fi Serie die mir gut gefallen hat, die jetzt in einem Fantay Setting spielt",
+    "Image": "https://m.media-amazon.com/images/I/81mQRmsX+BL._SL1500_.jpg",
+    "Links": ["https://amzn.eu/d/0blt8mAC"]
+  },
+  {
     "Name": "Pizzaofen",
     "Description": "Hatte den die letzten Jahre oft ausgeliehen und der hat super Pizza gemacht. Wenn ich ihn in Sörenberg bekomme, wünsche ich mich auch gleich Zutaten dazu, dass ich einen Abend Pizza backen kann.",
     "Image": "https://m.media-amazon.com/images/I/612DAz62-qL._AC_SL1500_.jpg",
@@ -390,6 +396,7 @@ const data = [
         - der astronaut
       - Das geräusch einer schnecke beim Essen (hat astrid berührt)
 */
+
 
 
 
